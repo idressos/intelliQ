@@ -93,10 +93,10 @@ It is included in the API application and enabled by default. You can find it at
 An instance is also available on the [live demo server](https://api.intelliq.site/docs).
 
 ## Project Team
-| Full Name             | Registration Number  |
-| --------------------- | -------------------- |
-| Ioannis Basdekis      | 03119198             |
-| Ioannis Dressos       | 03119608             |
-| Kriton Iordanidis     | 03119604             |
-| Panteleimon Emmanouil | 03119018             |
-| Panagiotis Tsakonas   | 03119610             |
+| Full Name                                                | Registration Number |
+| -------------------------------------------------------- | ------------------- |
+| [Ioannis Basdekis](https://github.com/ntua-el19198)      | 03119198            |
+| [Ioannis Dressos](https://github.com/idressos)           | 03119608            |
+| [Kriton Iordanidis](https://github.com/kritonios01)      | 03119604            |
+| [Panteleimon Emmanouil](https://github.com/ntua-el19018) | 03119018            |
+| [Panagiotis Tsakonas](https://github.com/pantsa01)       | 03119610            |
