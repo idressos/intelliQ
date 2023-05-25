@@ -98,5 +98,5 @@ An instance is also available on the [live demo server](https://api.intelliq.sit
 | [Ioannis Basdekis](https://github.com/johnbas321  )      | 03119198            |
 | [Ioannis Dressos](https://github.com/idressos)           | 03119608            |
 | [Kriton Iordanidis](https://github.com/kritonios01)      | 03119604            |
-| [Panteleimon Emmanouil](https://github.com/ntua-el19018) | 03119018            |
+| [Panteleimon Emmanouil](https://github.com/PantelisEmm ) | 03119018            |
 | [Panagiotis Tsakonas](https://github.com/pantsa01)       | 03119610            |
